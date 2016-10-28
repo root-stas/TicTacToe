@@ -1,0 +1,77 @@
+Initialize engine version: 5.1.4f1 (36d0f3617432)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 775M (ID=0x119d)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\OldWin10\Contest\TicTacToe\TicTacToe\Bin32\TTEGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\OldWin10\Contest\TicTacToe\TicTacToe\Bin32\TTEGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\OldWin10\Contest\TicTacToe\TicTacToe\Bin32\TTEGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\OldWin10\Contest\TicTacToe\TicTacToe\Bin32\TTEGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\OldWin10\Contest\TicTacToe\TicTacToe\Bin32\TTEGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\OldWin10\Contest\TicTacToe\TicTacToe\Bin32\TTEGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\OldWin10\Contest\TicTacToe\TicTacToe\Bin32\TTEGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\OldWin10\Contest\TicTacToe\TicTacToe\Bin32\TTEGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\OldWin10\Contest\TicTacToe\TicTacToe\Bin32\TTEGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\OldWin10\Contest\TicTacToe\TicTacToe\Bin32\TTEGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\OldWin10\Contest\TicTacToe\TicTacToe\Bin32\TTEGame_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.125 seconds
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\OldWin10\Contest\TicTacToe\TicTacToe\Bin32\TTEGame_Data\Managed\System.dll (this message is harmless)
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
